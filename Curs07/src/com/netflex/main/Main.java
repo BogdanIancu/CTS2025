@@ -1,7 +1,7 @@
 package com.netflex.main;
 
+import com.netflex.adapter.*;
 import com.netflex.facade.HomeScreenFacade;
-import com.netlfex.adapter.*;
 
 public class Main {
     public static void main(String[] args) {
